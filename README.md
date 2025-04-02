@@ -1,2 +1,1 @@
-# Prepcourse-Rodrigo
-Este es un repo de prueba henry
+Este proyecto es una prueba de como crear un reop y clonarlo de github a mi escritorio
